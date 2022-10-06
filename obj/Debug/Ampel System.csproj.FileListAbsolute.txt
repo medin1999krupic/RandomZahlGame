@@ -1,0 +1,11 @@
+C:\Users\medin.krupic\source\repos\Ampel System\Ampel System\bin\Debug\Ampel System.exe.config
+C:\Users\medin.krupic\source\repos\Ampel System\Ampel System\bin\Debug\Ampel System.exe
+C:\Users\medin.krupic\source\repos\Ampel System\Ampel System\bin\Debug\Ampel System.pdb
+C:\Users\medin.krupic\source\repos\Ampel System\Ampel System\obj\Debug\Ampel_System.Form1.resources
+C:\Users\medin.krupic\source\repos\Ampel System\Ampel System\obj\Debug\Ampel_System.Properties.Resources.resources
+C:\Users\medin.krupic\source\repos\Ampel System\Ampel System\obj\Debug\Ampel System.csproj.GenerateResource.cache
+C:\Users\medin.krupic\source\repos\Ampel System\Ampel System\obj\Debug\Ampel System.csproj.CoreCompileInputs.cache
+C:\Users\medin.krupic\source\repos\Ampel System\Ampel System\obj\Debug\Ampel System.exe
+C:\Users\medin.krupic\source\repos\Ampel System\Ampel System\obj\Debug\Ampel System.pdb
+C:\Users\medin.krupic\source\repos\Ampel System\Ampel System\obj\Debug\Ampel System.csproj.AssemblyReference.cache
+C:\Users\medin.krupic\source\repos\Ampel System\Ampel System\obj\Debug\Ampel System.csproj.SuggestedBindingRedirects.cache
